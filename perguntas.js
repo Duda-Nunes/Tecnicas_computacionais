@@ -1,34 +1,34 @@
 export const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "A introdução da inteligência artificial (IA) nas escolas está transformando a educação de maneiras significativas. Ferramentas baseadas em IA oferecem suporte personalizado para alunos, adaptando o material de acordo com o ritmo e o estilo de aprendizado de cada um. Isso permite uma abordagem mais individualizada e eficaz, ajudando a identificar e abordar lacunas no conhecimento de forma mais ágil. Além disso, a IA pode automatizar tarefas administrativas, liberando os professores para se concentrarem mais no ensino e na interação direta com os alunos. No entanto, a integração da IA nas escolas também levanta questões sobre privacidade, ética e a necessidade de treinamento adequado para educadores. Para garantir que essa tecnologia traga benefícios equitativos, é crucial que seu uso seja planejado e implementado com cuidado, visando sempre a melhoria da qualidade educacional e o desenvolvimento integral dos estudantes.",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Opnião dos alunos",
                 afirmacao: [
-                    "No início ficou com medo do que essa tecnologia pode fazer.",
-                    "Achou assustador pensar na velocidade na qual a tecnologia está avançando."
+                    "facilita na hora de pesquisar algumas coisas e é eficiente, porém em alguns momentos, quando usa muito começa a dar respostas erradas ou incompletas.",
+                    "Gostou porém não usa sempre"
                 ],
                 proxima: 1,
             },
             {
                 texto: "Isso é maravilhoso!",
                 afirmacao: [
-                    "Quis saber como usar IA no seu dia a dia.",
-                    "Pensou que IA pode ajudar em tarefas da sua vida."
+                    "Quis saber como usar IA no seu dia a dia e aprendi diversas coisas que através da IA consegui alguns resumos para estudos e também alguns resumos para coisas do dia a dia.",
+                    "Pensou que IA pode ajudar em tarefas da sua vida e também em tarefas escolares para estudos também."
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "Utilizar uma IA pode ser aterrorizante mesmo, e foi pensando nisso que uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. Porém muitos alunos utilizam a IA para realizar trabalhos e não aprendem nada pois só escrevem e não lem se está certo ou estudam o que escreveu e pesquisou.",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
+                texto: "O Certo é usar a IA em momentos que realmente sejam necessários e que não seja usada apenas para realizar a tarefa e sim para você realmente estudar e aprender",
                 afirmacao: [
-                    "Conseguiu utilizar a IA para buscar informações úteis.",
-                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida e direcionada.",
-                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e isso ajudou muito suas pesquisas sobre assuntos complexos."
+                    "Conseguiu utilizar a IA para buscar informações úteis e que são interresantes e relevantes.",
+                    "Percebeu que a IA pode ajudar a encontrar informações úteis na internet de forma mais rápida sem perder muito tempo com anúncios ou conteúdo irrelevantes.",
+                    "Percebeu que a IA consegue explicar termos complicados de forma simplificada e também resumuida. Isso ajudou muito nas pesquisas sobre assuntos complexos e também em assuntos do nosso próprio cotidiano."
                 ],
                 proxima: 3,
             },
